@@ -8,5 +8,5 @@ Instrumentation Tests: \app\src\androidTest
 
 Unit Tests: \app\src\test
 
-![Image of Yaktocat]
-(https://octodex.github.com/images/yaktocat.png)
+![Image of VideoPet]
+(https://github.com/RagaPribadi/VideoPet/blob/master/vidPet_pic1.jpg)
